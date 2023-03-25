@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;400;500;700&family=Open+Sans:wght@500&family=Roboto:ital,wght@0,100;0,500;1,100;1,300;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;400;500;700&family=Montserrat:wght@500&family=Open+Sans:wght@500&family=Roboto:ital,wght@0,100;0,500;1,100;1,300;1,900&display=swap');
+
+* {
+  font-family: 'Lexend Deca', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.fullpg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background:#093545;
+  background-position: bottom;
+  background-size:  100% 100px;
+  object-position: center;
+  background-image: url(./Vectors.png);
+  background-repeat:no-repeat;
+
+}
+
+
+.signIn {
+  /* position: absolute; */
+  /* width: 212px; */
+  /* height: 80px; */
+  /* left: 534px; */
+  /* top: 157px; */
+
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+
+  /* line-height: 80px; */
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.logInform {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+}
+
+.candidates {
+  /* position: absolute; */
+  /* width: 347px;
+height: 20px;
+left: 466px;
+top: 276px; */
+
+  /* font-family: 'Lexend Deca'; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 30px 0px;
+  /* line-height: 20px; */
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+#login {
+  /* position: absolute; */
+  /* width: 300px;
+height: 45px;
+left: 490px;
+top: 332px; */
+  padding: 12px 18px;
+  width: 300px;
+  background: #224957;
+  border-radius: 10px;
+  border: none;
+
+}
+
+#pass {
+  /* position: absolute;
+width: 300px;
+height: 45px;
+left: 490px;
+top: 409px; */
+  padding: 12px 18px;
+  background: #224957;
+  border-radius: 10px;
+  border: none;
+  width: 300px;
+}
+
+#rememberCheckbox {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 12px;
+  color: #FFFFFF;
+}
+
+#forgot {
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #20DF7F;
+  padding-left: 40px;
+
+}
+a{
+  text-decoration: none;
+}
+
+#button {
+  font-family: 'Lexend Deca';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: capitalize;
+  background: #20DF7F;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  margin: 20px 0px;
+  padding: 10px 0px;
+
+}
+
+.showData {
+  padding: 12px 18px;
+  width: 300px;
+  background: #224957;
+  border-radius: 10px;
+  text-align: center;
+}

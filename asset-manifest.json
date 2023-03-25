@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.04fbae34.css",
-    "main.js": "/static/js/main.d8c75119.js",
-    "static/js/787.aeb39de0.chunk.js": "/static/js/787.aeb39de0.chunk.js",
-    "index.html": "/index.html",
-    "main.04fbae34.css.map": "/static/css/main.04fbae34.css.map",
-    "main.d8c75119.js.map": "/static/js/main.d8c75119.js.map",
-    "787.aeb39de0.chunk.js.map": "/static/js/787.aeb39de0.chunk.js.map"
+    "main.css": "/lake-brains-web-task/static/css/main.04fbae34.css",
+    "main.js": "/lake-brains-web-task/static/js/main.fe6beb4f.js",
+    "static/js/787.aeb39de0.chunk.js": "/lake-brains-web-task/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/lake-brains-web-task/index.html",
+    "main.04fbae34.css.map": "/lake-brains-web-task/static/css/main.04fbae34.css.map",
+    "main.fe6beb4f.js.map": "/lake-brains-web-task/static/js/main.fe6beb4f.js.map",
+    "787.aeb39de0.chunk.js.map": "/lake-brains-web-task/static/js/787.aeb39de0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04fbae34.css",
-    "static/js/main.d8c75119.js"
+    "static/js/main.fe6beb4f.js"
   ]
 }
